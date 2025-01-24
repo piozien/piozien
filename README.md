@@ -13,4 +13,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piozien&show_icons=true&locale=en" alt="piozien" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piozien&theme=dark" alt="piozien" /></p>
