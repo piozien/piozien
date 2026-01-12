@@ -3,7 +3,7 @@
 
 <p align="center">
   <em>🎓 Computer Science Student at the University of Warmia and Mazury in Olsztyn</em><br>
-  <em>📅 Graduating as an Engineer in <b>January 2026</b></em><br>
+  <em>📅 Graduating as an Engineer in <b>February 2026</b></em><br>
   <em>💼 Actively looking for first commercial opportunities as a <b>Java Backend Developer</b></em>
 </p>
 
