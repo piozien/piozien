@@ -1,22 +1,20 @@
 <h1 align="center">Hi there 👋, I'm Piotr</h1>
-<h3 align="center">Junior Java Developer 🚀</h3>
+<h3 align="center">Java Backend Developer | M.Sc. Student at Gdańsk Tech 🚀</h3>
 
 <p align="center">
-  <em>🎓 Computer Science Student at the University of Warmia and Mazury in Olsztyn</em><br>
-  <em>📅 Graduating as an Engineer in <b>February 2026</b></em><br>
-  <em>💼 Actively looking for first commercial opportunities as a <b>Java Backend Developer</b></em>
+  <em>🎓 Specializing in <b>Algorithms and Internet Technologies</b> at Gdańsk University of Technology</em><br>
+  <em>⚙️ B.Eng. Graduate from UWM | Engineering Thesis focused on <b>Modern Java Ecosystem</b></em><br>
+  <em>💼 Seeking my first professional role in <b>Backend Development</b></em>
 </p>
 
 <br>
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently finalizing my Engineering Thesis based on **Java 21, Spring Boot 3 & Next.js**.
-- 🌱 I have commercial project experience collaborating with **ZETO Software**.
-- 👯 I’m looking to collaborate on Open Source projects or join a dynamic Dev Team.
-- ⚡ Fun fact: I focus on **Code Quality** (TDD, Clean Code) and stability (Docker).
-
----
+- 🎓 **Continuous Growth:** After earning my Engineer's degree, I've moved on to pursue a Master's at **Gdańsk University of Technology** to deepen my knowledge of high-performance algorithms and web architectures.
+- 🏗️ **Engineering Mindset:** My thesis wasn't just a project—it's a full-stack application built with **Java 21 and Spring Boot 3**, following TDD principles.
+- ⚡ **Tech Philosophy:** I don't just write code; I care about **Code Quality**, **Clean Architecture**, and **Scalability**. 
+- 🛠️ **Practical Background:** I already have hands-on experience through collaboration with **ZETO Software**.
 
 ### 🛠️ Tech Stack & Tools
 
